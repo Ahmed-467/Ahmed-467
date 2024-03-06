@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nadeem</h1
- link![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b](https://github.com/Ahmed-467/Ahmed-467/assets/153556203/bbd82603-48d7-4c55-935b-e02609ea9b38)
+ <img align="left" alt="coding" width="500" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="left" alt="coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
                                           
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 

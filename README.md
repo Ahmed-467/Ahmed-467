@@ -4,7 +4,7 @@
                                          
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-<p align="left"> <img src="" alt="ahmed-467" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ahmed-467" alt="ahmed-467" alt="ahmed-467" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-467" alt="ahmed-467" /></a> </p>
 
